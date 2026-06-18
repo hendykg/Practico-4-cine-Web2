@@ -1,2 +1,5 @@
+/node-modules/  export-ignore
+.env
+.env.example
 # Auto detect text files and perform LF normalization
 * text=auto
